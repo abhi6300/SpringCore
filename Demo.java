@@ -1,7 +1,10 @@
 public class Demo{
 
-public String develop(){
 
+//bug (130)
+public String develop(){
+//logic 
+int = 20;
 return "first method";
 
 }
