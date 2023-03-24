@@ -13,6 +13,8 @@ return "first method";
 
 public String secondDev(){
 //logic
+int=10;
 return "Second Method";
 
 }
+
